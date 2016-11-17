@@ -208,9 +208,9 @@ i.facebook {
     margin: 0 10px;
 }
 i.linkedin{
-   width: 16px;
-  height: 16px;
-  background: url(../images/linkedin_logo.jpg);
+   width: 64px;
+  height: 64px;
+  background: url(../images/linkedin_logo.jpg)no-repeat -64px 0px;
   float: left;
   vertical-align: middle;
     margin: 0 10px;
