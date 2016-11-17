@@ -210,7 +210,7 @@ i.facebook {
 i.linkedin{
    width: 64px;
   height: 64px;
-  background: url(../images/linkedin_logo.jpg)no-repeat -64px 0px;
+  background: url(../images/linkedin_logo.jpg)no-repeat 0px 0px;
   float: left;
   vertical-align: middle;
     margin: 0 10px;
