@@ -37,11 +37,11 @@ p{
 }
 ul{
 	padding:0 0;
-	margin:0 0;	
+	margin:0 0;
 }
 body{
 	padding:0 0;
-	margin:0 0; 
+	margin:0 0;
 	font-family: 'OpenSans-Regular';
 
 }
@@ -85,7 +85,7 @@ span.glyphicon.glyphicon-triangle-bottom {
   font-size: 2.5em;
   text-transform: capitalize;
   color: #393b3a;
-  
+
 }
 .study-grid span {
   color: #00cfbd;
@@ -187,7 +187,7 @@ font-size: 2em;
   color: #B4BEB9;
   font-weight: 500;
   margin: 0 9px;
- 
+
 }
 .face h4 {
   font-size: 0.9em;
@@ -207,10 +207,10 @@ i.facebook {
   vertical-align: middle;
     margin: 0 10px;
 }
-i.twitter{
+i.linkedin{
    width: 64px;
   height: 64px;
-  background: url(../images/img-sprite.png)no-repeat -64px 0px;
+  background: url(../images/linkedin_logo.png);
   float: left;
   vertical-align: middle;
     margin: 0 10px;
@@ -234,7 +234,7 @@ i.beh {
 .contact-section {
   padding: 4em 0;
   background: #deecdf;
- 
+
  }
 .contact-section h3 {
     font-family: 'Nunito-Bold';
@@ -698,7 +698,7 @@ span.glyphicon.glyphicon-triangle-bottom {
 }
 .social-icons h3 {
   font-size: 1.5em;
- 
+
 }
 .face {
   float: left;
